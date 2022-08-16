@@ -5,3 +5,9 @@ N3495D03_Export.TXT
 Re__test_measurement_Straßburg__-__Ittenheim_-_where_is_start_and_end_point_.zip
 Untitled.ipynb
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
+OUTPUTExport.cpg
+*.cpg
+*.shp
+*.prj
+*.shx
+*.dbf
